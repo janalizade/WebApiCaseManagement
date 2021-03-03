@@ -1,0 +1,15 @@
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

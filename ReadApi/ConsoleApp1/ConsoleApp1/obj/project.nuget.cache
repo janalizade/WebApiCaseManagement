@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLM07CXTOxWPx9dCUIafCpU+yCRa8wFo6w4tMSQjPRpSu0jkHDoF24pj9rbcSS9QTaJgYXiaHNuZ8ygZLyefBw==",
+  "success": true,
+  "projectFilePath": "C:\\Maryam\\ASP.net\\WebApp\\ReadApi\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avest\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

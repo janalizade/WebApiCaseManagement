@@ -1,0 +1,68 @@
+<html lang="en">
+
+<head>
+    <meta charset="utf8">
+    <title>List Of Customers</title>
+    <style>
+        th {
+            width: 180px;
+            text-align: left;
+
+        }
+    </style>
+    
+    
+      
+</head>
+
+<body >
+    <table id="castablebody">
+        <thead>
+            <th style="width: 50px;"></th>
+            <th>Id</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>City</th>
+        </thead>
+        <tbody id="castablebody"></tbody>
+
+
+    </table>
+
+    
+          <button id="getData" onclick=getAPI()>GET DATA FROM API </button>
+          <p id="result"></p>
+ 
+    
+</body>
+<script>
+       
+   
+
+
+
+    function getAPI(){
+        fetch('https://localhost:44355/api/customers')
+    .then((res) => { return res.json() })
+    .then((data) => {
+        let result = `<h2> Random User Info From Jsonplaceholder API</h2>`;
+        data.forEach((user) => {
+            const { id, firstName, lastName,city  } = user
+            result +=
+                `<div>
+                 <h5> User ID: ${id} </h5>
+                     <ul class="w3-ul">
+                     <li> User FirstName : ${firstName}</li>
+                     <li> User LastName: ${lastName} </li>
+                     <li> User City: ${city} </li>
+                     </ul>
+                  </div>`;
+                    document.getElementById('result').innerHTML = result;
+                });
+            })
+        }
+    
+
+
+</script>
+</html>

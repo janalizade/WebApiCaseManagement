@@ -1,0 +1,17 @@
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Maryam\ASP.net\WebApp\ReadApi\ConsoleApp2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
